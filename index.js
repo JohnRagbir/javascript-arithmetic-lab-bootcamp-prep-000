@@ -10,10 +10,9 @@ add = (a, b) => a + b;
   
 
 
-subtract = (a, b) => {a - b; }
-
-number -= 2;
-  
+function subtract(a,b){
+  return a - b;
+}
 
 divide = (a, b) =>
 

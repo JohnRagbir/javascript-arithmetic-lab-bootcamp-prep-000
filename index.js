@@ -30,8 +30,8 @@ multiply = (a, b) =>
   
 }
 
-var multiply(var1*var2) {
-  var1 * var2 = 62;
+var multiply() ;{
+  var1 *= var2 = 62;
   
 }
 

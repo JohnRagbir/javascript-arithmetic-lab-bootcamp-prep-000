@@ -14,13 +14,13 @@ add = (a, b) =>
 
 subtract = (a, b) =>
 
-{ return b - a; 
+{ return a - b; 
   
 }
 
 divide = (a, b) =>
 
-{ return a /= b; 
+{ return a / b; 
   
 }
 

@@ -11,6 +11,8 @@ add = (a, b) => a + b;
 
 
 subtract = (a, b) => {a - b; }
+
+number -= 2;
   
 
 divide = (a, b) =>

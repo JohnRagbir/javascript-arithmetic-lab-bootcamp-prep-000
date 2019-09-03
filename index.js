@@ -6,11 +6,9 @@ function dec (a) {
   return --a
 }
 
-add = (a, b) => 
-
-{ return a + b; 
+add = (a, b) => a + b; 
   
-}
+
 
 subtract = (a, b) =>
 

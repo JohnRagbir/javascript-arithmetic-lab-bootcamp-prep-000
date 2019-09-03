@@ -27,10 +27,6 @@ multiply = (a, b) =>
   
 }
 
-parseInt('2', 10)
-{
-makeInt(10);
-}
 
 function inc(n){
   return n += 1;

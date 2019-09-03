@@ -30,4 +30,13 @@ multiply = (a, b) =>
   
 }
 
+var multiply(var1*var2) {
+  var1 * var2 = 62;
+  
+}
+
+var random = a>100
+
+
+
 Number.parseInt('100', 10);

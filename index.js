@@ -10,11 +10,8 @@ add = (a, b) => a + b;
   
 
 
-subtract = (a, b) =>
-
-{ return a - b; 
+subtract = (a, b) => a - b; 
   
-}
 
 divide = (a, b) =>
 

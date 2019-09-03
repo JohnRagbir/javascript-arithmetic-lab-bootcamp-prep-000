@@ -28,3 +28,4 @@ multiply = (a, b) =>
 }
 
 parseInt('2', 10);
+makeInt(n);
